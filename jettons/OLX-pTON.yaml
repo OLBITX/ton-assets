@@ -1,0 +1,8 @@
+{
+  "address": "EQD3_YN5_eWNEF1iowrvfwao3VH-XoUsHexVro8BV29ZEHWT",
+  "name": "LP Token for OLX-pTON",
+  "symbol": "OLX-pTON LP",
+  "decimals": "9",
+  "image": "https://cache.tonapi.io/imgproxy/pU1syaVnA9rYz7h3OltvRHFKLfw4l7IGbN7CdHxvn8Q/rs:fill:200:200:1/g:no/aHR0cHM6Ly9scC5zdG9uLmZpL2ltZy8wOmY3ZmQ4Mzc5ZmRlNThkMTA1ZDYyYTMwYWVmN2YwNmE4ZGQ1MWZlNWU4NTJjMWRlYzU1YWU4ZjAxNTc2ZjU5MTAucG5n.webp",
+  "description": "Liquidity pool token for OLBITX and Proxy TON on STON.fi DEX"
+}
